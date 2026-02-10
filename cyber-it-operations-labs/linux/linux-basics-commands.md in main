@@ -1,0 +1,31 @@
+# Linux Basics – Essential Commands
+
+## Objective
+Practice foundational Linux commands commonly used in system administration and troubleshooting.
+
+## Environment
+- Linux (Red Hat–based distribution)
+- Terminal / command line
+
+## Commands Practiced
+- pwd – display current directory
+- ls – list files and directories
+- cd – change directories
+- mkdir – create directories
+- rmdir – remove empty directories
+- touch – create files
+- cp – copy files
+- mv – move or rename files
+- rm – delete files
+- cat – view file contents
+- less – paginate file output
+- man – access manual pages
+
+## What I Did
+- Navigated the filesystem using the command line
+- Created and removed files and directories
+- Viewed and managed file contents
+- Used manual pages to understand command options
+
+## Outcome
+Built confidence using Linux command-line tools for everyday administrative tasks.
